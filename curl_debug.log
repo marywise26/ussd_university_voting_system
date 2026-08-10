@@ -1,0 +1,32 @@
+* Host api.sandbox.africastalking.com:443 was resolved.
+* IPv6: (none)
+* IPv4: 18.169.96.158, 13.42.166.90, 18.169.2.234
+*   Trying 18.169.96.158:443...
+* Connected to api.sandbox.africastalking.com (18.169.96.158) port 443
+* ALPN: curl offers http/1.1
+*  CAfile: C:/wamp64/ssl/cacert.pem
+*  CApath: none
+* SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256 / X25519 / RSASSA-PSS
+* ALPN: server accepted http/1.1
+* Server certificate:
+*  subject: CN=*.sandbox.africastalking.com
+*  start date: May 19 00:00:00 2026 GMT
+*  expire date: Dec  3 23:59:59 2026 GMT
+*  subjectAltName: host "api.sandbox.africastalking.com" matched cert's "*.sandbox.africastalking.com"
+*  issuer: C=GB; O=Sectigo Limited; CN=Sectigo Public Server Authentication CA DV R36
+*  SSL certificate verify ok.
+*   Certificate level 0: Public key type RSA (2048/112 Bits/secBits), signed using sha256WithRSAEncryption
+*   Certificate level 1: Public key type RSA (3072/128 Bits/secBits), signed using sha384WithRSAEncryption
+*   Certificate level 2: Public key type RSA (4096/152 Bits/secBits), signed using sha384WithRSAEncryption
+* using HTTP/1.x
+> POST /version1/messaging HTTP/1.1
+Host: api.sandbox.africastalking.com
+User-Agent: MzumbeVotingSystem/1.0 PHP-cURL
+apiKey: atsk_3d1071b1de25abef12e03b95bce46a20b227cf2fb0f1a17777bd6e0b8c6390d78eeaea22
+Accept: application/json
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 81
+
+* upload completely sent off: 81 bytes
+* Operation timed out after 60013 milliseconds with 0 bytes received
+* Closing connection

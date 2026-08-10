@@ -1,0 +1,40 @@
+2026-07-26 07:45:09 {"phoneNumber":"+255655856349","serviceCode":"*384*3732#","text":"","sessionId":"ATUid_4903c6a7cc6c6d9012b071bfa7e17dbf","networkCode":"99999"}
+2026-07-26 07:45:18 {"phoneNumber":"+255655856349","serviceCode":"*384*3732#","text":"1","sessionId":"ATUid_4903c6a7cc6c6d9012b071bfa7e17dbf","networkCode":"99999"}
+2026-07-26 07:45:22 {"phoneNumber":"+255655856349","serviceCode":"*384*3732#","text":"1*1","sessionId":"ATUid_4903c6a7cc6c6d9012b071bfa7e17dbf","networkCode":"99999"}
+2026-07-26 07:45:55 {"phoneNumber":"+255655856349","serviceCode":"*384*3732#","text":"1*1*ITS23156668","sessionId":"ATUid_4903c6a7cc6c6d9012b071bfa7e17dbf","networkCode":"99999"}
+2026-07-26 10:12:45 {"phoneNumber":"+255655856349","serviceCode":"*384*3732#","text":"","sessionId":"ATUid_c4b19e877ffcf09e555b38c332539039","networkCode":"99999"}
+2026-07-26 10:12:51 {"phoneNumber":"+255655856349","serviceCode":"*384*3732#","text":"1","sessionId":"ATUid_c4b19e877ffcf09e555b38c332539039","networkCode":"99999"}
+2026-07-26 10:13:05 {"phoneNumber":"+255655856349","serviceCode":"*384*3732#","text":"","sessionId":"ATUid_a3d6bb24fa876cfa41d3b0c01ed28d7c","networkCode":"99999"}
+2026-07-26 10:22:49 session=ATUid_27025c297264a6c6f3b16555ed5dce26 phone=+255655856349 steps=0
+2026-07-26 10:22:53 session=ATUid_27025c297264a6c6f3b16555ed5dce26 phone=+255655856349 steps=1
+2026-07-26 10:23:04 session=ATUid_27025c297264a6c6f3b16555ed5dce26 phone=+255655856349 steps=2
+2026-07-26 10:23:11 session=ATUid_27025c297264a6c6f3b16555ed5dce26 phone=+255655856349 steps=3
+2026-07-26 10:23:19 session=ATUid_27025c297264a6c6f3b16555ed5dce26 phone=+255655856349 steps=4
+2026-07-26 10:25:37 session=ATUid_bc6e6a9e6cd96c1813ac9b836bd131b2 phone=+255655856349 steps=0
+2026-07-26 10:25:41 session=ATUid_bc6e6a9e6cd96c1813ac9b836bd131b2 phone=+255655856349 steps=1
+2026-07-26 10:25:45 session=ATUid_bc6e6a9e6cd96c1813ac9b836bd131b2 phone=+255655856349 steps=2
+2026-07-26 10:25:48 session=ATUid_bc6e6a9e6cd96c1813ac9b836bd131b2 phone=+255655856349 steps=3
+2026-07-26 10:25:59 session=ATUid_bc6e6a9e6cd96c1813ac9b836bd131b2 phone=+255655856349 steps=4
+2026-07-26 10:26:31 session=ATUid_09865972b41e111f657c319b644e2c4e phone=+255655856349 steps=0
+2026-07-26 10:28:10 session=ATUid_c97f8ff503d2c8d5d818be4d064d6b94 phone=+255655856349 steps=0
+2026-07-26 10:28:13 session=ATUid_c97f8ff503d2c8d5d818be4d064d6b94 phone=+255655856349 steps=1
+2026-07-26 10:28:19 session=ATUid_c97f8ff503d2c8d5d818be4d064d6b94 phone=+255655856349 steps=2
+2026-07-26 10:28:22 session=ATUid_c97f8ff503d2c8d5d818be4d064d6b94 phone=+255655856349 steps=3
+2026-07-26 10:28:27 session=ATUid_c97f8ff503d2c8d5d818be4d064d6b94 phone=+255655856349 steps=4
+2026-07-26 10:30:15 session=ATUid_a3b61180dd520d0fb8d23a07e817f401 phone=+255655856349 steps=0
+2026-07-26 10:30:19 session=ATUid_a3b61180dd520d0fb8d23a07e817f401 phone=+255655856349 steps=1
+2026-07-26 10:30:22 session=ATUid_a3b61180dd520d0fb8d23a07e817f401 phone=+255655856349 steps=2
+2026-07-26 10:30:25 session=ATUid_a3b61180dd520d0fb8d23a07e817f401 phone=+255655856349 steps=3
+2026-07-26 10:30:44 session=ATUid_711e95521d347ba64860c19bb446bf47 phone=+255655856349 steps=0
+2026-07-26 10:30:52 session=ATUid_711e95521d347ba64860c19bb446bf47 phone=+255655856349 steps=1
+2026-07-26 10:30:55 session=ATUid_711e95521d347ba64860c19bb446bf47 phone=+255655856349 steps=2
+2026-07-26 10:30:59 session=ATUid_711e95521d347ba64860c19bb446bf47 phone=+255655856349 steps=3
+2026-07-26 10:31:03 session=ATUid_711e95521d347ba64860c19bb446bf47 phone=+255655856349 steps=4
+2026-07-26 10:31:06 session=ATUid_711e95521d347ba64860c19bb446bf47 phone=+255655856349 steps=5
+2026-07-26 10:37:35 session=ATUid_3981cd86cb3bd78e868ae6dacda76ee8 phone=+255655856349 steps=0
+2026-07-26 10:37:38 session=ATUid_3981cd86cb3bd78e868ae6dacda76ee8 phone=+255655856349 steps=1
+2026-07-26 10:37:42 session=ATUid_3981cd86cb3bd78e868ae6dacda76ee8 phone=+255655856349 steps=2
+2026-07-26 10:37:45 session=ATUid_3981cd86cb3bd78e868ae6dacda76ee8 phone=+255655856349 steps=3
+2026-07-26 10:37:50 session=ATUid_3981cd86cb3bd78e868ae6dacda76ee8 phone=+255655856349 steps=4
+2026-07-26 10:37:53 session=ATUid_3981cd86cb3bd78e868ae6dacda76ee8 phone=+255655856349 steps=5
+2026-07-26 10:37:56 session=ATUid_3981cd86cb3bd78e868ae6dacda76ee8 phone=+255655856349 steps=6
